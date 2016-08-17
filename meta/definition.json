@@ -19,43 +19,184 @@
   "items": {
     "default": [
       {
-        "name": "Chapter 03: Creating Research Papers, Newsletters, and Merged Mailing Labels",
+        "name": "Using Mixed Cell References",
         "item-type": "folder",
-        "item-code": "Chapter_03:_Creating_Research Papers,_Newsletters,_and_Merged_Mailing_Labels",
-        "sub-type": "chapter",
+        "item-code": "_",
+        "sub-type": "module",
         "items": [
           {
-            "name": "Project 3B: Newsletter with Optional Mailing Labels",
+            "name": "Efficiently Create Budget Using Mixed Cell References",
             "item-type": "folder",
-            "item-code": "Project_3B:_Newsletter_with_Optional_Mailing_Labels",
-            "sub-type": "project",
-            "items": [
-              {
-                "name": "Objective 5: Create a Custom Word Template",
-                "item-type": "folder",
-                "item-code": "Objective_5:_Create_a_Custom_Word_Template",
-                "sub-type": "objective",
-                "items": [
-                  {
-                    "name": "Activity 3.18: Inserting an Online Picture",
-                    "item-type": "folder",
-                    "item-code": "Activity_3._18:_Inserting_an_Online_Picture",
-                    "sub-type": "task",
-                    "items": [
-                      {
-                        "name": "Activity 3.18: Inserting an Online Picture",
-                        "item-type": "resource",
-                        "resource": "VIDEO.3.18",
-                        "item-code": "Activity_3._18:_Inserting_an_Online_Picture_Video",
-                        "tracking": true
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
+            "item-code": "_",
+            "sub-type": "item",
+            "items": []
+          },
+          {
+            "name": "Conditionally Format Row Using Mixed Cell References",
+            "item-type": "folder",
+            "item-code": "_",
+            "sub-type": "item",
+            "items": []
+          },
+          {
+            "name": "Conditionally Format MIN / MAX Values in Each Row (Mixed Cell References)",
+            "item-type": "folder",
+            "item-code": "_",
+            "sub-type": "item",
+            "items": []
+          },
+          {
+            "name": "Conditional Formatting Column, Row and Intersection Value (Mixed Cell References)",
+            "item-type": "folder",
+            "item-code": "_",
+            "sub-type": "item",
+            "items": []
           }
         ]
+      },
+      {
+        "name": "Using SUMPRODUCT Function",
+        "item-type": "folder",
+        "item-code": "_",
+        "sub-type": "module",
+        "items": [
+          {
+            "name": "SUMPRODUCT Function To Calculate Expected Value",
+            "item-type": "folder",
+            "item-code": "_",
+            "sub-type": "item",
+            "items": []
+          },
+          {
+            "name": "SUMPRODUCT Function To Calculate Weighted Grades",
+            "item-type": "folder",
+            "item-code": "_",
+            "sub-type": "item",
+            "items": []
+          },
+          {
+            "name": "SUMPRODUCT Function To Calculate Budgeted Income Statement",
+            "item-type": "folder",
+            "item-code": "_",
+            "sub-type": "item",
+            "items": []
+          },
+          {
+            "name": "SUMPRODUCT Function To Calculate Weighted Average From Transactional Data, and Tricks For Creating Mega Formulas",
+            "item-type": "folder",
+            "item-code": "_",
+            "sub-type": "item",
+            "items": []
+          }
+        ]
+      },
+      {
+        "name": "Using VLOOKUP",
+        "item-type": "folder",
+        "item-code": "_",
+        "sub-type": "module",
+        "items": [
+          {
+            "name": "VLOOKUP Basics",
+            "item-type": "folder",
+            "item-code": "_",
+            "sub-type": "item",
+            "items": []
+          },
+          {
+            "name": "VLOOKUP & MATCH Functions To Do Two-Way Lookup",
+            "item-type": "folder",
+            "item-code": "_",
+            "sub-type": "item",
+            "items": []
+          },
+          {
+            "name": "VLOOKUP & MATCH Functions To Retrieve Record and Display Vertically or Horizontally",
+            "item-type": "folder",
+            "item-code": "_",
+            "sub-type": "item",
+            "items": []
+          }
+        ]
+      },
+      {
+        "name": "Grade Table Subtract Two Lowest Before Assigning Decimal Grade",
+        "item-type": "folder",
+        "item-code": "_",
+        "sub-type": "module",
+        "items": []
+      },
+      {
+        "name": "Using Array Formula",
+        "item-type": "folder",
+        "item-code": "_",
+        "sub-type": "module",
+        "items": [
+          {
+            "name": "Array Formula: INDEX and MATCH Functions to Lookup First Value",
+            "item-type": "folder",
+            "item-code": "_",
+            "sub-type": "item",
+            "items": []
+          },
+          {
+            "name": "Array Formula: LOOKUP Function To Lookup Last Value",
+            "item-type": "folder",
+            "item-code": "_",
+            "sub-type": "item",
+            "items": []
+          }
+        ]
+      },
+      {
+        "name": "Using Pivot Table",
+        "item-type": "folder",
+        "item-code": "_",
+        "sub-type": "module",
+        "items": [
+          {
+            "name": "PivotTable For Yearly Percentage Change Calculations",
+            "item-type": "folder",
+            "item-code": "_",
+            "sub-type": "item",
+            "items": []
+          },
+          {
+            "name": "PivotTable For Running Total",
+            "item-type": "folder",
+            "item-code": "_",
+            "sub-type": "item",
+            "items": []
+          },
+          {
+            "name": "PivotTable For Cross Tabular Calculations and % of Row and % of Column Calculations",
+            "item-type": "folder",
+            "item-code": "_",
+            "sub-type": "item",
+            "items": []
+          }
+        ]
+      },
+      {
+        "name": "Creating and Using Defined Names with Keyboard",
+        "item-type": "folder",
+        "item-code": "_",
+        "sub-type": "module",
+        "items": []
+      },
+      {
+        "name": "Recorded Macro For Variable Height Tables: Using Relative and Absolute Cell References",
+        "item-type": "folder",
+        "item-code": "_",
+        "sub-type": "module",
+        "items": []
+      },
+      {
+        "name": "The Importance of Number Formatting",
+        "item-type": "folder",
+        "item-code": "_",
+        "sub-type": "module",
+        "items": []
       }
     ]
   },
