@@ -1,0 +1,92 @@
+{
+  "definition": {
+    "learning-objectives": {},
+    "tags": {
+      "Reading": {
+        "tags": {}
+      },
+      "Videos": {
+        "tags": {}
+      },
+      "Practice": {
+        "tags": {}
+      },
+      "Test": {
+        "tags": {}
+      }
+    }
+  },
+  "items": {
+    "default": [
+      {
+        "name": "Chapter 03: Creating Research Papers, Newsletters, and Merged Mailing Labels",
+        "item-type": "folder",
+        "item-code": "Chapter_03:_Creating_Research Papers,_Newsletters,_and_Merged_Mailing_Labels",
+        "sub-type": "chapter",
+        "items": [
+          {
+            "name": "Project 3B: Newsletter with Optional Mailing Labels",
+            "item-type": "folder",
+            "item-code": "Project_3B:_Newsletter_with_Optional_Mailing_Labels",
+            "sub-type": "project",
+            "items": [
+              {
+                "name": "Objective 5: Create a Custom Word Template",
+                "item-type": "folder",
+                "item-code": "Objective_5:_Create_a_Custom_Word_Template",
+                "sub-type": "objective",
+                "items": [
+                  {
+                    "name": "Activity 3.18: Inserting an Online Picture",
+                    "item-type": "folder",
+                    "item-code": "Activity_3._18:_Inserting_an_Online_Picture",
+                    "sub-type": "task",
+                    "items": [
+                      {
+                        "name": "Activity 3.18: Inserting an Online Picture",
+                        "item-type": "resource",
+                        "resource": "VIDEO.3.18",
+                        "item-code": "Activity_3._18:_Inserting_an_Online_Picture_Video",
+                        "tracking": true
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "resources": {
+    "generic": {
+      "VIDEO.3.18": {
+        "sub-type": "video",
+        "tags": [
+          "Videos"
+        ],
+        "video": {
+          "url": "GO16.WD.03.3B.04.T1.mp4"
+        },
+        "description": "",
+        "learning-objectives": []
+      }
+    },
+    "test": {},
+    "ebook": {}
+  },
+  "meta": {
+    "schema": 1,
+    "title": "GO! with Microsoft Word 2016: Comprehensive",
+    "code": "gowithmicrosoftword2016comprehensive",
+    "author": "Compro",
+    "thumbnailsmall": "cover.jpg",
+    "thumbnaillarge": "cover.jpg",
+    "description": "",
+    "producttype": "courseware",
+    "model": {
+		"type": "type3"
+	}
+  }
+}
